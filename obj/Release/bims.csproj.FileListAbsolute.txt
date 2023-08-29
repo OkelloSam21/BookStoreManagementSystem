@@ -1,0 +1,9 @@
+C:\Users\samuel njoki\Desktop\bims\bims\bims\bin\Release\bims.exe.config
+C:\Users\samuel njoki\Desktop\bims\bims\bims\bin\Release\bims.exe
+C:\Users\samuel njoki\Desktop\bims\bims\bims\bin\Release\bims.pdb
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Release\bims.frmSplash.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Release\bims.frmLogin.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Release\bims.Properties.Resources.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Release\bims.csproj.GenerateResource.Cache
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Release\bims.exe
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Release\bims.pdb

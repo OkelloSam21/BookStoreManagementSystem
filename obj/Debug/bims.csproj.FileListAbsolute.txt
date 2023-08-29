@@ -1,0 +1,47 @@
+C:\Users\samuel njoki\Desktop\bims\bims\bims\bin\Debug\bims.exe.config
+C:\Users\samuel njoki\Desktop\bims\bims\bims\bin\Debug\bims.exe
+C:\Users\samuel njoki\Desktop\bims\bims\bims\bin\Debug\bims.pdb
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmSplash.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.Properties.Resources.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.csproj.GenerateResource.Cache
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.exe
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.pdb
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmLogin.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.MDIParent1.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmMain.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmAuthor.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmBook.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmBookAuthor.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmBookBundle.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmBookOrder.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmBundle.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmCustomer.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmOrder.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmUser.resources
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.csprojResolveAssemblyReference.cache
+C:\Users\samuel njoki\Desktop\bims\bims\bims\obj\Debug\bims.frmHelp.resources
+B:\Visual Studio 2012\bims\bims\bims\bin\Debug\bims.exe.config
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.exe
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.pdb
+B:\Visual Studio 2012\bims\bims\bims\bin\Debug\bims.exe
+B:\Visual Studio 2012\bims\bims\bims\bin\Debug\bims.pdb
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.csprojResolveAssemblyReference.cache
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmSplash.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmAuthor.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmBook.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmBookAuthor.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmBookBundle.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmBookOrder.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmBundle.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmCustomer.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmHelp.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmLogin.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmMain.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmOrder.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.frmUser.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.MDIParent1.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.Properties.Resources.resources
+B:\Visual Studio 2012\bims\bims\bims\obj\Debug\bims.csproj.GenerateResource.Cache
+B:\SYSTEMS\bims\bin\Debug\bims.exe.config
+B:\SYSTEMS\bims\obj\Debug\bims.exe
+B:\SYSTEMS\bims\obj\Debug\bims.pdb
